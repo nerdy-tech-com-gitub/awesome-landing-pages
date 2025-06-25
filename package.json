@@ -19,7 +19,7 @@
   "license": "MIT",
   "devDependencies": {
     "chart.js": "^4.4.2",
-    "gsap": "^3.12.5",
+    "gsap": "^3.13.0",
     "prettier": "^3.3.3",
     "prettier-plugin-tailwindcss": "^0.6.5",
     "swiper": "^11.1.1",
