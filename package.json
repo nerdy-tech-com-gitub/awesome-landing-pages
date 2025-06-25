@@ -26,7 +26,7 @@
     "tailwindcss": "^4.1.8"
   },
   "dependencies": {
-    "postcss": "^8.4.33",
+    "postcss": "^8.5.4",
     "postcss-simple-vars": "^7.0.1"
   }
 }
