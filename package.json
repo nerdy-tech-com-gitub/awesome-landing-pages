@@ -18,7 +18,7 @@
   "author": "Paul",
   "license": "MIT",
   "devDependencies": {
-    "chart.js": "^4.4.2",
+    "chart.js": "^4.4.4",
     "gsap": "^3.12.5",
     "prettier": "^3.3.3",
     "prettier-plugin-tailwindcss": "^0.6.5",
